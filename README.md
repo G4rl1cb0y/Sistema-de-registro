@@ -1,2 +1,3 @@
-Carlos Pineda
-Este proyecto es una prueba de como clonar un repositorio
+<h1> Sistema de Registro </h1>
+
+/Estado del proyecto> en construcci[on
